@@ -2,14 +2,17 @@
 ## Fundraising
 Major Donors  
 Individual Giving (regular and cash)  
-Trusts  
 Corporate  
 Income Processing (Direct Debits, Gift Aid)  
+Donor Support Services  
 
 ## Engagement
+Marketing  
+Campaign Management  
+
 ## Program Management
-### Volunteer Management
-Recruitment
+Volunteer Recruitment  
+Campaigning and Lobbying  
 
 # Higher Education
 ## Recruiting & Admissions
