@@ -1,4 +1,4 @@
-# NPSP
+# Nonprofit
 ## Fundraising
 Major Donors  
 Individual Giving (regular and cash)  
