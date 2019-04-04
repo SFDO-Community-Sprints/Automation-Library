@@ -1,4 +1,4 @@
-1. Per process: 
+1. Per process:  
   a. Why automate  
   b. Who automation benefits  
   c. Technology options  
