@@ -2,7 +2,7 @@
 Use cases for nonprofit and higher education process automation
 
 # Members
-Richard Booth
+Richard Booth  
 Frazer Lewis
 
 # What is this all about?
