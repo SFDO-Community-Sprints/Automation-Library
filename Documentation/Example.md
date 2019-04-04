@@ -1,5 +1,3 @@
-Author: Richard Booth & Frazer Lewis
-
 # Volunteer Recruitment
 ## Attraction
 Purpose = remove manual segmentation, content create and send, response receive and process
