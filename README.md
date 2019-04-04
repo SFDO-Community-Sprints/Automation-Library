@@ -1,6 +1,10 @@
 # Automation-Library
 Use cases for nonprofit and higher education process automation
 
+# Members
+Richard Booth
+Frazer Lewis
+
 # What is this all about?
 Too many opportunities for process automation are missed as they're deemed too expensive to consider or time consuming to complete.  
 
