@@ -1,13 +1,25 @@
 # Automation-Library
 Use cases for nonprofit and higher education process automation
 
-# Members
+# Team Members
 Richard Booth  
 Frazer Lewis
 
-# What is this all about?
+# Project Summary
 Too many opportunities for process automation are missed as they're deemed too expensive to consider or time consuming to complete.  
 
-In many cases process improvement is attempted but only serves to push the bottleneck somewhere else. For example, digitising a paper form is a great start, but not if it results in the team manually processing greater numbers of electronic forms than there were paper forms in the first place. The total process lifecycle has to be considered.
+# Impact on The Community
+In some cases, process improvement is attempted but only serves to push the bottleneck somewhere else. In other cases, organisations don't know where to start looking at process automation. With so many Salesforce technology options to choose from, and so many processes in play, a set of 'starter for ten' process ideas and automation options
 
-Salesforce technology options are varied and this serves to get the community to a good starting point for conversation and action. 
+# Distribution Options
+* GitHub docs
+* Elements.Cloud
+* 
+
+# Accomplished So Far
+* Business Areas - https://github.com/SFDO-Sprint-2019-Amsterdam/Automation-Library/blob/master/Documentation/Business%20Areas.md
+* Potential Tasks Required - https://github.com/SFDO-Sprint-2019-Amsterdam/Automation-Library/blob/master/Documentation/Potential%20Tasks.md
+
+# Net Steps & Requirements Before Wider Release
+* Expansion of business areas and use cases
+* Identify existing collateral and link
