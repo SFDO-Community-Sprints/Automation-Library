@@ -1,9 +1,8 @@
 # Nonprofit
 ## Fundraising
-Major Donors  
+Income Processing (Direct Debits, Gift Aid)  
 Individual Giving (regular and cash)  
 Corporate  
-Income Processing (Direct Debits, Gift Aid)  
 Donor Support Services  
 
 ## Engagement
