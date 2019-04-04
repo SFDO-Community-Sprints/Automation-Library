@@ -12,9 +12,9 @@ Too many opportunities for process automation are missed as they're deemed too e
 In some cases, process improvement is attempted but only serves to push the bottleneck somewhere else. In other cases, organisations don't know where to start looking at process automation. With so many Salesforce technology options to choose from, and so many processes in play, a set of 'starter for ten' process ideas and automation options
 
 # Distribution Options
-* GitHub docs
-* Elements.Cloud
-* 
+* GitHub docs (business areas and use cases)
+* Something from Elements.Cloud? (process templates)
+* LucidChart (process templates)
 
 # Accomplished So Far
 * Business Areas - https://github.com/SFDO-Sprint-2019-Amsterdam/Automation-Library/blob/master/Documentation/Business%20Areas.md
