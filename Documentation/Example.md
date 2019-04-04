@@ -10,9 +10,12 @@ Technology =
 
 =>
 ## Application
-Purpose = digitise paper processes, remove the bottlenecks created by moving to digital forms . 
-Audience = volunteer recruitment administrators . 
-Technology =  
+Purpose = digitise paper processes, remove the bottlenecks created by moving to digital forms
+
+Audience = volunteer recruitment administrators
+
+Technology =
+
 =>
 ## Assessment
 =>
