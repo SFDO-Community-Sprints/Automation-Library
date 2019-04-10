@@ -7,6 +7,7 @@ Income Processing (Direct Debits, Gift Aid)
 Individual Giving (regular and cash)  
 Corporate  
 Donor Support Services  
+Legacy Donations??  
 
 ## Engagement
 Marketing  
