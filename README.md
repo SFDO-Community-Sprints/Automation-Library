@@ -9,7 +9,7 @@ Frazer Lewis
 Too many opportunities for process automation are missed as they're deemed too expensive to consider or time consuming to complete.  
 
 # Impact on The Community
-In some cases, process improvement is attempted but only serves to push the bottleneck somewhere else. In other cases, organisations don't know where to start looking at process automation. With so many Salesforce technology options to choose from, and so many processes in play, a set of 'starter for ten' process ideas and automation options
+In some cases, process improvement is attempted but only serves to push the bottleneck somewhere else. In other cases, organisations don't know where to start looking at process automation. With many Salesforce technology options to choose from, and so many processes in play, a set of 'starter for ten' process ideas and automation options.
 
 # Distribution Options
 * GitHub docs (business areas and use cases)
