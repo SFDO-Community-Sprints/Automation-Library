@@ -13,8 +13,7 @@ In some cases, process improvement is attempted but only serves to push the bott
 
 # Distribution Options
 * GitHub docs (business areas and use cases)
-* Something from Elements.Cloud? (process templates)
-* LucidChart (process templates)
+* Diagramming solutions
 
 # Accomplished So Far
 * Business Areas - https://github.com/SFDO-Sprint-2019-Amsterdam/Automation-Library/blob/master/Documentation/Business%20Areas.md
